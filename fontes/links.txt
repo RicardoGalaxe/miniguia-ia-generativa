@@ -1,13 +1,23 @@
 Fontes utilizadas no NotebookLM:
 
+====================================
 1. GPT-4 | OpenAI
+====================================
 https://openai.com/index/gpt-4/
 
-2. Claude 3 | Anthropic
+====================================
+2. Introducing Claude 3 | Anthropic
+====================================
 https://www.anthropic.com/news/claude-3-family
 
+====================================
 3. What is Generative AI? | AWS
+====================================
 https://aws.amazon.com/what-is-generative-ai/
 
+====================================
 4. What is Generative AI? | IBM
+====================================
 https://www.ibm.com/topics/generative-ai
+
+
